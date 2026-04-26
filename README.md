@@ -70,7 +70,7 @@ See full details here:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 - Add PID control
 - Increase speed accuracy
 - Add obstacle detection
