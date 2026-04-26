@@ -30,7 +30,7 @@ Computer Science – Embedded Systems
 ---
 
 ## Circuit Diagram
-![Circuit](images/circuit.jpg)
+![Circuit](CircuitDiagram.jpg)
 
 ---
 
