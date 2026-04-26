@@ -35,13 +35,11 @@ Computer Science – Embedded Systems
 ---
 
 ## Robot Design
-![Robot](images/robot.jpg)
-
+![Robot](Poster – Line Follower Robot.png)
 ---
 
 ## Flowchart
-![Flowchart](images/flowchart.png)
-
+![Flowchart](Flowchart.png)
 ---
 
 ## Cost Analysis
